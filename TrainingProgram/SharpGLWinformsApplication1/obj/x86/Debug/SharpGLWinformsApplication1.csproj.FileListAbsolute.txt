@@ -1,0 +1,126 @@
+N:\Doctorado\Semestre 02\Soft computing\Mackey\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+N:\Doctorado\Semestre 02\Soft computing\Mackey\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+N:\Doctorado\Semestre 02\Soft computing\Mackey\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+N:\Doctorado\Semestre 02\Soft computing\Mackey\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+N:\Doctorado\Semestre 02\Soft computing\Mackey\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+N:\Doctorado\Semestre 02\Soft computing\Mackey\SharpGLWinformsApplication1\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+N:\Doctorado\Semestre 02\Soft computing\Mackey\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+N:\Doctorado\Semestre 02\Soft computing\Mackey\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+N:\Doctorado\Semestre 02\Soft computing\Mackey\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csproj.GenerateResource.Cache
+N:\Doctorado\Semestre 02\Soft computing\Mackey\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+N:\Doctorado\Semestre 02\Soft computing\Mackey\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+N:\Doctorado\Semestre 02\Soft computing\Mackey\SharpGLWinformsApplication1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Liz\Downloads\MackeyV\v5\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Liz\Downloads\MackeyV\v5\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Liz\Downloads\MackeyV\v5\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Liz\Downloads\MackeyV\v5\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Liz\Downloads\MackeyV\v5\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Liz\Downloads\MackeyV\v5\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Liz\Downloads\MackeyV\v5\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Liz\Downloads\MackeyV\v5\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Liz\Downloads\MackeyV\v5\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Liz\Downloads\MackeyV\v5\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Liz\Downloads\MackeyV\v5\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Liz\Downloads\MackeyV\v5\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csproj.GenerateResource.Cache
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV007\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV007\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV007\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV007\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV007\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV007\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV007\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV007\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV007\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csproj.GenerateResource.Cache
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV007\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV007\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV007\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csprojResolveAssemblyReference.cache
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csprojResolveAssemblyReference.cache
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csproj.GenerateResource.Cache
+F:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+F:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+F:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SoftCMeans.exe
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SoftCMeans.pdb
+C:\Users\Liz\Downloads\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Liz\Downloads\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Liz\Downloads\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Liz\Downloads\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Liz\Downloads\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Liz\Downloads\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Liz\Downloads\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SoftCMeans.exe
+C:\Users\Liz\Downloads\MackeyV00\SharpGLWinformsApplication1\bin\Debug\SoftCMeans.pdb
+C:\Users\Liz\Downloads\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Liz\Downloads\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Liz\Downloads\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Liz\Downloads\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csproj.GenerateResource.Cache
+C:\Users\Liz\Downloads\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Liz\Downloads\MackeyV00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SoftCMeans.exe
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SoftCMeans.pdb
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csproj.GenerateResource.Cache
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csprojResolveAssemblyReference.cache
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csproj.GenerateResource.Cache
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SoftCMeans.exe
+E:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SoftCMeans.pdb
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SoftCMeans.exe
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SoftCMeans.pdb
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csprojResolveAssemblyReference.cache
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csproj.GenerateResource.Cache
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.csproj.GenerateResource.Cache
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SoftCMeans.exe
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication1\bin\Debug\SoftCMeans.pdb

@@ -1,0 +1,95 @@
+N:\SmartChroma\ASSIST\V 0.003\NEURAL\bin\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.003\NEURAL\bin\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.003\NEURAL\obj\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.003\NEURAL\obj\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.004\NEURAL\bin\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.004\NEURAL\bin\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.004\NEURAL\obj\Debug\Neural.csprojResolveAssemblyReference.cache
+N:\SmartChroma\ASSIST\V 0.004\NEURAL\obj\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.004\NEURAL\obj\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.005\NEURAL\bin\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.005\NEURAL\bin\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.005\NEURAL\obj\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.005\NEURAL\obj\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.006\NEURAL\bin\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.006\NEURAL\bin\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.006\NEURAL\obj\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.006\NEURAL\obj\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.006\NEURAL\obj\Debug\Neural.csprojResolveAssemblyReference.cache
+N:\SmartChroma\ASSIST\V 0.007\NEURAL\bin\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.007\NEURAL\bin\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.007\NEURAL\obj\Debug\Neural.csprojResolveAssemblyReference.cache
+N:\SmartChroma\ASSIST\V 0.007\NEURAL\obj\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.007\NEURAL\obj\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.008\NEURAL\bin\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.008\NEURAL\bin\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.008\NEURAL\obj\Debug\Neural.csprojResolveAssemblyReference.cache
+N:\SmartChroma\ASSIST\V 0.008\NEURAL\obj\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.008\NEURAL\obj\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.009\NEURAL\bin\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.009\NEURAL\bin\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.009\NEURAL\obj\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.009\NEURAL\obj\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.010\NEURAL\bin\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.010\NEURAL\bin\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.010\NEURAL\obj\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.010\NEURAL\obj\Debug\BackPropagation.pdb
+G:\SmartChroma\ASSIST\V 0.011\NEURAL\bin\Debug\BackPropagation.dll
+G:\SmartChroma\ASSIST\V 0.011\NEURAL\bin\Debug\BackPropagation.pdb
+G:\SmartChroma\ASSIST\V 0.011\NEURAL\obj\Debug\BackPropagation.dll
+G:\SmartChroma\ASSIST\V 0.011\NEURAL\obj\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.011\NEURAL\bin\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.011\NEURAL\bin\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.011\NEURAL\obj\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.011\NEURAL\obj\Debug\BackPropagation.pdb
+C:\Users\Omar\Desktop\CURRENT\SmartChroma\ASSIST\V 0.012\NEURAL\bin\Debug\BackPropagation.dll
+C:\Users\Omar\Desktop\CURRENT\SmartChroma\ASSIST\V 0.012\NEURAL\bin\Debug\BackPropagation.pdb
+C:\Users\Omar\Desktop\CURRENT\SmartChroma\ASSIST\V 0.012\NEURAL\obj\Debug\BackPropagation.dll
+C:\Users\Omar\Desktop\CURRENT\SmartChroma\ASSIST\V 0.012\NEURAL\obj\Debug\BackPropagation.pdb
+C:\Users\Omar\Desktop\CURRENT\SmartChroma\ASSIST\V 0.014\NEURAL\bin\Debug\BackPropagation.dll
+C:\Users\Omar\Desktop\CURRENT\SmartChroma\ASSIST\V 0.014\NEURAL\bin\Debug\BackPropagation.pdb
+C:\Users\Omar\Desktop\CURRENT\SmartChroma\ASSIST\V 0.014\NEURAL\obj\Debug\BackPropagation.dll
+C:\Users\Omar\Desktop\CURRENT\SmartChroma\ASSIST\V 0.014\NEURAL\obj\Debug\BackPropagation.pdb
+G:\SmartChroma\ASSIST\V 0.014\NEURAL\bin\Debug\BackPropagation.dll
+G:\SmartChroma\ASSIST\V 0.014\NEURAL\bin\Debug\BackPropagation.pdb
+G:\SmartChroma\ASSIST\V 0.014\NEURAL\obj\Debug\BackPropagation.dll
+G:\SmartChroma\ASSIST\V 0.014\NEURAL\obj\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.014\NEURAL\bin\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.014\NEURAL\bin\Debug\BackPropagation.pdb
+N:\SmartChroma\ASSIST\V 0.014\NEURAL\obj\Debug\BackPropagation.dll
+N:\SmartChroma\ASSIST\V 0.014\NEURAL\obj\Debug\BackPropagation.pdb
+N:\before\V 0.015\NEURAL\bin\Debug\BackPropagation.dll
+N:\before\V 0.015\NEURAL\bin\Debug\BackPropagation.pdb
+N:\before\V 0.015\NEURAL\obj\Debug\Neural.csprojResolveAssemblyReference.cache
+N:\before\V 0.015\NEURAL\obj\Debug\BackPropagation.dll
+N:\before\V 0.015\NEURAL\obj\Debug\BackPropagation.pdb
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\V 0.015\NEURAL\bin\Debug\BackPropagation.dll
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\V 0.015\NEURAL\bin\Debug\BackPropagation.pdb
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\V 0.015\NEURAL\obj\Debug\Neural.csprojResolveAssemblyReference.cache
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\V 0.015\NEURAL\obj\Debug\BackPropagation.dll
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\V 0.015\NEURAL\obj\Debug\BackPropagation.pdb
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\V 0.017\NEURAL\bin\Debug\BackPropagation.dll
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\V 0.017\NEURAL\bin\Debug\BackPropagation.pdb
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\V 0.017\NEURAL\obj\Debug\Neural.csprojResolveAssemblyReference.cache
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\V 0.017\NEURAL\obj\Debug\BackPropagation.dll
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\V 0.017\NEURAL\obj\Debug\BackPropagation.pdb
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.017\NEURAL\bin\Debug\BackPropagation.dll
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.017\NEURAL\bin\Debug\BackPropagation.pdb
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.017\NEURAL\obj\Debug\Neural.csprojResolveAssemblyReference.cache
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.017\NEURAL\obj\Debug\BackPropagation.dll
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.017\NEURAL\obj\Debug\BackPropagation.pdb
+E:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.00\NEURAL\bin\Debug\BackPropagation.dll
+E:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.00\NEURAL\bin\Debug\BackPropagation.pdb
+E:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.00\NEURAL\obj\Debug\Neural.csprojResolveAssemblyReference.cache
+E:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.00\NEURAL\obj\Debug\BackPropagation.dll
+E:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.00\NEURAL\obj\Debug\BackPropagation.pdb
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.00\NEURAL\bin\Debug\BackPropagation.dll
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.00\NEURAL\bin\Debug\BackPropagation.pdb
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.00\NEURAL\obj\Debug\Neural.csprojResolveAssemblyReference.cache
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.00\NEURAL\obj\Debug\BackPropagation.dll
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\V 0.00\NEURAL\obj\Debug\BackPropagation.pdb
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\PCAV 0.0\NEURAL\bin\Debug\BackPropagation.dll
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\PCAV 0.0\NEURAL\bin\Debug\BackPropagation.pdb
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\PCAV 0.0\NEURAL\obj\Debug\Neural.csprojResolveAssemblyReference.cache
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\PCAV 0.0\NEURAL\obj\Debug\BackPropagation.dll
+N:\Doctorado\Semestre 02\Reconocimiento de patrones\PCA\PCAV 0.0\NEURAL\obj\Debug\BackPropagation.pdb

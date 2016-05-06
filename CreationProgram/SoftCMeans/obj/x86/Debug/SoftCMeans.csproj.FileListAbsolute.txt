@@ -1,0 +1,36 @@
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SoftCMeans\bin\Debug\SoftCMeans.exe
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SoftCMeans\bin\Debug\SoftCMeans.pdb
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SoftCMeans\obj\x86\Debug\SoftCMeans.Form1.resources
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SoftCMeans\obj\x86\Debug\SoftCMeans.Properties.Resources.resources
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SoftCMeans\obj\x86\Debug\SoftCMeans.csproj.GenerateResource.Cache
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SoftCMeans\obj\x86\Debug\SoftCMeans.exe
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV00\SoftCMeans\obj\x86\Debug\SoftCMeans.pdb
+C:\Users\Liz\Downloads\MackeyV00\SoftCMeans\bin\Debug\SoftCMeans.exe
+C:\Users\Liz\Downloads\MackeyV00\SoftCMeans\bin\Debug\SoftCMeans.pdb
+C:\Users\Liz\Downloads\MackeyV00\SoftCMeans\obj\x86\Debug\SoftCMeans.Form1.resources
+C:\Users\Liz\Downloads\MackeyV00\SoftCMeans\obj\x86\Debug\SoftCMeans.Properties.Resources.resources
+C:\Users\Liz\Downloads\MackeyV00\SoftCMeans\obj\x86\Debug\SoftCMeans.csproj.GenerateResource.Cache
+C:\Users\Liz\Downloads\MackeyV00\SoftCMeans\obj\x86\Debug\SoftCMeans.exe
+C:\Users\Liz\Downloads\MackeyV00\SoftCMeans\obj\x86\Debug\SoftCMeans.pdb
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.exe
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.pdb
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SoftCMeans\bin\Debug\SoftCMeans.exe
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SoftCMeans\bin\Debug\SoftCMeans.pdb
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.Form1.resources
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.Properties.Resources.resources
+C:\Users\Omar\Desktop\MackeyV002\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.csproj.GenerateResource.Cache
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SoftCMeans\bin\Debug\SoftCMeans.exe
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SoftCMeans\bin\Debug\SoftCMeans.pdb
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.Form1.resources
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.Properties.Resources.resources
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.csproj.GenerateResource.Cache
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.exe
+N:\Doctorado\Semestre 02\Soft computing\Mackey\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.pdb
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.exe
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.pdb
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SoftCMeans\bin\Debug\SoftCMeans.exe
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SoftCMeans\bin\Debug\SoftCMeans.pdb
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.csprojResolveAssemblyReference.cache
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.Form1.resources
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.Properties.Resources.resources
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SoftCMeans\obj\x86\Debug\SoftCMeans.csproj.GenerateResource.Cache

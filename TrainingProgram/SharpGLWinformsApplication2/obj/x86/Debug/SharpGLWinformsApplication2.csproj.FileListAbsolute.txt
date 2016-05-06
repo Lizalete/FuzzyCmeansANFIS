@@ -1,0 +1,14 @@
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication2\bin\Debug\SharpGLWinformsApplication2.exe.config
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication2\bin\Debug\SharpGLWinformsApplication2.exe
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication2\bin\Debug\SharpGLWinformsApplication2.pdb
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication2\bin\Debug\BackPropagation.dll
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication2\bin\Debug\SharpGL.dll
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication2\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication2\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication2\bin\Debug\BackPropagation.pdb
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication2\obj\x86\Debug\SharpGLWinformsApplication2.Properties.Resources.resources
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication2\obj\x86\Debug\SharpGLWinformsApplication2.SharpGLForm.resources
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication2\obj\x86\Debug\SharpGLWinformsApplication2.csproj.GenerateResource.Cache
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication2\obj\x86\Debug\SharpGLWinformsApplication2.exe
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication2\obj\x86\Debug\SharpGLWinformsApplication2.pdb
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\SharpGLWinformsApplication2\obj\x86\Debug\SharpGLWinformsApplication2.csprojResolveAssemblyReference.cache

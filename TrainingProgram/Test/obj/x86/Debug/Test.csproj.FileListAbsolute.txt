@@ -1,0 +1,10 @@
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\Test\obj\x86\Debug\Test.Form1.resources
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\Test\bin\Debug\Test.exe
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\Test\bin\Debug\Test.pdb
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\Test\bin\Debug\BackPropagation.dll
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\Test\bin\Debug\BackPropagation.pdb
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\Test\obj\x86\Debug\Test.exe
+C:\Users\Liz\Downloads\mack14\15\MackeyV002\Test\obj\x86\Debug\Test.pdb
