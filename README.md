@@ -1,6 +1,10 @@
 # FuzzyCmeansANFIS
 FuzzyCmeansANFIS in C#
 
+MADE BY:
+Omar López Rincón
+Lizbeth Peralta Malváez
+
 MACKEY GLASS
 FILL method:
 Receives the four parameters of the Mackey Glass equation (β, γ, τ and n) and the number of points to plot (10,000)
